@@ -1,0 +1,3 @@
+# ft_printf
+second project at 42 school. We have to create our own printf function.
+This repo contains the job that I pushed for evaluation and obtain 100%, but you can find some better repo with maybe a cleaner code...
